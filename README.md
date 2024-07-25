@@ -4,3 +4,4 @@ My friend was the idea man while I was the programmer.<br />
 <br />
 YBT (You've been trolled) can only be opened on windows.<br />
 We included a batch file to close it just incase it gets out of hand.<br />
+You can access the program in the `ybt` folder
