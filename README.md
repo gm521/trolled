@@ -1,5 +1,7 @@
 # You've Been Trolled Virus
-This is a homemade virus me and my friend made at school,
+This is a homemade virus me and my friend made at school.
+YBT (You've been trolled) can only be opened on windows.
+
 We included a batch file to close it just incase it gets out of hand.
 Do not use this file for malicious purposes.
 
