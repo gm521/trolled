@@ -6,4 +6,3 @@ We included a batch file to close it just incase it gets out of hand.
 Do not use this file for malicious purposes.
 
 My friend was the idea man while I was the programmer.
-Written in Powershell and presented as a Javascript WScript file.
