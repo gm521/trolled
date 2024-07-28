@@ -7,5 +7,5 @@ We included a batch file, `antidote.bat`, found in the resources folder, `/res`,
 You can access the program in the `ybt` folder.<br />
 ⚠️ The `trolled.js` file must stay with the `res` folder
 <br />
-<sub>Note: We are aware this isn't really a virus and it cannot spread.</sub>
+<sub>Note: We are aware this isn't really a virus and it cannot spread.</sub><br />
 <sub>Credit for bluescreen part: https://github.com/peewpw/Invoke-BSOD</sub>
