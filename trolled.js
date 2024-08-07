@@ -32,5 +32,5 @@ c = '$a = New-Object System.Media.SoundPlayer;' +
     '    Start-Sleep -Milliseconds 50;' +
     '}';
 
-cm = 'cmd /k powershell ' + c
-new ActiveXObject('WScript.Shell').run(cm);
+cm = 'cmd /c powershell ' + c
+new ActiveXObject('WScript.Shell').run(cm,0,true);
