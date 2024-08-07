@@ -1,5 +1,5 @@
 c = '$a = New-Object System.Media.SoundPlayer;' +
-    '$a.SoundLocation = \'res\\t.wav\';' +
+    '$a.SoundLocation = \'https://ia601903.us.archive.org/0/items/t_20240807_202408/t.wav\';' +
     '[void][reflection.assembly]::LoadWithPartialName(\'System.Net.Http\');' +
     '[void][reflection.assembly]::LoadWithPartialName(\'System.Windows.Forms\');' +
     '$s = [System.Drawing.Bitmap]::new((New-Object System.Net.Http.HttpClient).GetStreamAsync(\'https://s6.imgcdn.dev/bvDTK.png\').Result);' +
